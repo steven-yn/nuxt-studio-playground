@@ -35,6 +35,7 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "1.1.0",
+    "@nuxthq/studio": "^2.2.1",
     "automd": "0.4.0",
     "eslint": "9.21.0",
     "wrangler": "^3.114.0"
